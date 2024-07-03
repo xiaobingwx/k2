@@ -7,7 +7,7 @@ import (
 	"admin/entry"
 	_ "admin/migrate/version"
 )
-
+//for test
 //go:generate swag init --parseDependency --parseDepth=6
 
 // @title admin Web Backend
