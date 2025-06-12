@@ -1,4 +1,4 @@
-module github.com/kingwel-xie/k2
+module github.com/xiaobingwx/k2
 
 go 1.15
 
